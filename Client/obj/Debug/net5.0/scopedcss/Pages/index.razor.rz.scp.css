@@ -1,0 +1,22 @@
+label[b-fk99kvp76t] {
+    margin-left: 1rem;
+    text-indent: -1rem;
+}
+label span[b-fk99kvp76t] {
+    display: inline-block;
+    clear: right;
+}
+#messagesList[b-fk99kvp76t] {
+    border-collapse: separate;
+}
+#messagesList td[b-fk99kvp76t] {
+    vertical-align: top;
+    padding: 0.166rem;
+}
+#messagesList tr td:first-child[b-fk99kvp76t] {
+    background-color: #8f8f8f;
+    font-weight: 700;
+}
+#messagesList tr td:nth-child(2)[b-fk99kvp76t] {
+    border: solid 1px #8f8f8f;
+} 

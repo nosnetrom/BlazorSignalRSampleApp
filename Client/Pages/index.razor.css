@@ -1,0 +1,22 @@
+label {
+    margin-left: 1rem;
+    text-indent: -1rem;
+}
+label span {
+    display: inline-block;
+    clear: right;
+}
+#messagesList {
+    border-collapse: separate;
+}
+#messagesList td {
+    vertical-align: top;
+    padding: 0.333rem;
+}
+#messagesList tr td:first-child {
+    background-color: #8f8f8f;
+    font-weight: 700;
+}
+#messagesList tr td:nth-child(2) {
+    border: solid 1px #8f8f8f;
+} 
